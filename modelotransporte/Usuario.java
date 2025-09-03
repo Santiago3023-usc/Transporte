@@ -1,4 +1,4 @@
-package modeloestudiante;
+package modelotransporte;
 public class Usuario {
 
     private String nombre;

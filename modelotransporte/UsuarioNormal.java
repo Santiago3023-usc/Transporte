@@ -1,4 +1,4 @@
-package modeloestudiante;
+package modelotransporte;
 public class UsuarioNormal extends Usuario{
 
 	public UsuarioNormal(String nombre,int cedula){ 
