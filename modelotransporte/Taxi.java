@@ -9,4 +9,12 @@ public class Taxi extends Vehiculo  {
         this.tarifaBase = tarifaBase;
     }
     
+    public String getConductor(){
+        return conductor;
+    }
+
+    public int getTarifaBase(){
+        return tarifaBase;
+     }
+
 }
